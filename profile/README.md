@@ -1,5 +1,9 @@
 # BRCS Christmas 2023 🎅🎄
 
+🎅 - [BRCS Christmas Tournament](https://brcomputerscience-org.github.io/christmas/)
+
+🎄 - [BRCS Christmas Tree](https://github.com/brcomputerscience-org/christmas-tree/)
+
 ![image](https://github.com/brcomputerscience-org/.github/assets/140008493/ba6f894c-0758-4a62-9a8c-75f6104b2916)
 
 
