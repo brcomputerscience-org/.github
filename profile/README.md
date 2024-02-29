@@ -4,6 +4,8 @@
 
 Founded by **`Alex Sheng`**, **`Jay Fang`**, **`Shubham Roy-Choudhury`**, **`Dhruv Rakhade`**, **`Samir Rangwalla`**, and **`Charlie Yang`**
 
+Currently led by **`Alex Sheng`**, **`Jay Fang`**, **`Shubham Roy-Choudhury`**, **`Dhruv Rakhade`**, **`Samir Rangwalla`**, and **`Charlie Yang`**
+
 Administered by **`Mr. John Evancho`**
 
 © BRCS 2024
