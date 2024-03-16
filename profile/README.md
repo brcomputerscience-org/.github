@@ -2,9 +2,10 @@
 
 💻 BRCS is a student-led computer science club at Bridgewater-Raritan Middle School. Driven by passion, we explore coding, tackle challenges, and foster innovation through hands-on projects and workshops. Everyone is welcome to join our inclusive community!
 
-Founded by **`Alex Sheng`**, **`Jay Fang`**, **`Shubham Roy-Choudhury`**, **`Dhruv Rakhade`**, **`Samir Rangwalla`**, and **`Charlie Yang`**
+> [!IMPORTANT]  
+> Thanks everyone for a great first year!
 
-Currently led by **`Alex Sheng`**, **`Jay Fang`**, **`Shubham Roy-Choudhury`**, **`Dhruv Rakhade`**, **`Samir Rangwalla`**, and **`Charlie Yang`**
+Founded by **`Alex Sheng`**, **`Jay Fang`**, **`Shubham Roy-Choudhury`**, **`Dhruv Rakhade`**, **`Samir Rangwalla`**, and **`Charlie Yang`**
 
 Administered by **`Mr. John Evancho`**
 
