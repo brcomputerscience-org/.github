@@ -9,6 +9,8 @@ Founded by **`Alex Sheng`**, **`Jay Fang`**, **`Shubham Roy-Choudhury`**, **`Dhr
 
 Administered by **`Mr. John Evancho`**
 
+*Disclaimer: Our logo's copyright belongs to the C.O.D.E. Club of Bridgewater-Raritan High School*
+
 © BRCS 2024
 
 <!-- ✨ Bridgewater-Raritan-Cybersecurity/.github is a special repository: this README.md will appear on your public organization profile, visible to anyone.
