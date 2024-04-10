@@ -5,7 +5,7 @@
 > [!IMPORTANT]  
 > Thanks everyone for a great first year!
 
-Founded by **`Alex Sheng`**, **`Jay Fang`**, **`Shubham Roy-Choudhury`**, **`Dhruv Rakhade`**, **`Samir Rangwalla`**, and **`Charlie Yang`**
+Founded by **`Alex Sheng`**, **`Jay Fang`**, **`Dhruv Rakhade`**, **`Samir Rangwalla`**, **`Shubham Roy-Choudhury`**, and **`Charlie Yang`**
 
 Administered by **`Mr. John Evancho`**
 
