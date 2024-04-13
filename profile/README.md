@@ -3,7 +3,7 @@
 💻 BRCS is a student-led computer science club at Bridgewater-Raritan Middle School. Driven by passion, we explore coding, tackle challenges, and foster innovation through hands-on projects and workshops. Everyone is welcome to join our inclusive community!
 
 > [!IMPORTANT]  
-> Thanks everyone for a great first year!
+> BRMS Robotics Event on 4/13/2024!
 
 Founded by **`Alex Sheng`**, **`Jay Fang`**, **`Dhruv Rakhade`**, **`Samir Rangwalla`**, **`Shubham Roy-Choudhury`**, and **`Charlie Yang`**
 
