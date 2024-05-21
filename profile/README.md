@@ -7,6 +7,12 @@
 
 Founded by **`Alex Sheng`**, **`Jay Fang`**, **`Dhruv Rakhade`**, **`Samir Rangwalla`**, **`Shubham Roy-Choudhury`**, and **`Charlie Yang`** in 2023
 
+Currently led by **`Brayden Wang`**, **`Showrya Verma`**, **`Phillip Nielsen`**, and **`Parindraa`**
+
+SigmaCS: **`Alex Sheng`**, **`Dhruv Rakhade`**, **`Tharun Naguleswaran`**, **`Jay Fang`**, and **`Anshuman Roy`**
+
+Teachers Assistants: **`Ethan Zhou`**, **`Ronald Liu`**, and **`Baala`**
+
 Administered by **`Mr. John Evancho`**
 
 *Disclaimer: Our logo's copyright belongs to the C.O.D.E. Club of Bridgewater-Raritan High School*
