@@ -7,11 +7,11 @@
 
 Founded by **`Alex Sheng`**, **`Jay Fang`**, **`Dhruv Rakhade`**, **`Samir Rangwalla`**, **`Shubham Roy-Choudhury`**, and **`Charlie Yang`** in 2023
 
-Currently led by **`Brayden Wang`**, **`Showrya Verma`**, **`Phillip Nielsen`**, and **`Parindraa`**
+Currently led by **`Brayden Wang`**, **`Showrya Verma`**, and **`Phillip Nielsen`**
 
 SigmaCS: **`Alex Sheng`**, **`Dhruv Rakhade`**, **`Tharun Naguleswaran`**, **`Jay Fang`**, and **`Anshuman Roy`**
 
-Teachers Assistants: **`Ethan Zhou`**, **`Ronald Liu`**, and **`Baala`**
+Teachers Assistants: **`Ethan Zhou`**, **`Ronald Liu`**, and **`Baalamurougan Tamizhenjan`**
 
 Administered by **`Mr. John Evancho`**
 
