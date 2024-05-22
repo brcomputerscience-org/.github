@@ -1,6 +1,6 @@
 ## Welcome to the Bridgewater-Raritan Computer Science Club!
 
-💻 BRCS is a student-led computer science club at Bridgewater-Raritan Middle School. Driven by passion, we explore coding, tackle challenges, and foster innovation through hands-on projects and workshops. Everyone is welcome to join our inclusive community!
+💻 The Bridgewater-Raritan Computer Science Club (BRCS) is a student-led computer science club at Bridgewater-Raritan Middle School. Driven by passion, we explore coding, tackle challenges, and foster innovation through hands-on projects and workshops. Everyone is welcome to join our inclusive community!
 
 > [!IMPORTANT]  
 > BRCS 2023-2024 has ended. See you next year (with new leadership as all leaders are moving on to High School)!
@@ -11,7 +11,7 @@ Currently led by **`Brayden Wang`**, **`Showrya Verma`**, and **`Phillip Nielsen
 
 SigmaCS: **`Alex Sheng`**, **`Dhruv Rakhade`**, **`Tharun Naguleswaran`**, **`Jay Fang`**, and **`Anshuman Roy`**
 
-Teachers Assistants: **`Ethan Zhou`**, **`Ronald Liu`**, and **`Baalamurougan Tamizhenjan`**
+Teacher's Assistants: **`Ethan Zhou`**, **`Ronald Liu`**, and **`Baalamurougan Tamizhenjan`**
 
 Administered by **`Mr. John Evancho`**
 
